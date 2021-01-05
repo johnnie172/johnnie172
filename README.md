@@ -15,14 +15,12 @@
 ![](https://img.shields.io/badge/Tool-Flask-informational?style=flat&logo=Flask&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Docker-Containers-informational?style=flat&logo=Docker&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/-Tool-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/-Tool-Postman-informational?style=flat&logo=Postman&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=Gnu-Bash&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Tool-Django-informational?style=flat&logo=Django&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=brightgreen)
-
-
 
 <p align="center">
     <a href="https://github.com/johnnie172">
