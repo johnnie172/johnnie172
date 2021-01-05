@@ -2,17 +2,12 @@
 [![Header](https://github.com/johnnie172/johnnie172/raw/master/assets/Header.png)](https://johnnie-m.com/)
 
 
-
+<h2 align="center">Hello there! My name is Johnathan Maytliss. 👋🤓</h2>
 
 <p align="center">I'm a Software Engineer from TLV-Israel.
     I passionate about programming and new technologies.
-    When I'm not developing, you can find me Driving, Working on cars, Listning to Music, Photographing or just hanging out!
+    When I'm not developing, you can find me Doing some electronics stuff, driving, working on cars, listening to music, photography or just hanging out!
 </p>
-
-
-<h2 align="center">Hello there! My name is Johnathan Maytliss. 👋🤓</h2>
-
-
 
 
 
