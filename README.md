@@ -18,8 +18,7 @@
 
 <p align="center">
     <a href="https://github.com/johnnie172">
-        <img alt="johnnie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Johnnie172&
-        &hide=stars,issues&bg_color=020204&title_color=22b455&text_color=80ce87" />
+        <img alt="johnnie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Johnnie172&hide=stars,issues&bg_color=020204&title_color=22b455&text_color=80ce87" />
     </a>
 </p>
 
