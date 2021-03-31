@@ -21,7 +21,9 @@
 ![](https://img.shields.io/badge/Tool-Django-informational?style=flat&logo=Django&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=birightgreen)
+![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=React&logoColor=white&col$
+$logoColor=white&color=brightgreen)
 
 <p align="center">
     <a href="https://github.com/johnnie172">
